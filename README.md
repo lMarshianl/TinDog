@@ -1,2 +1,1 @@
-# TinDog
-Tinder spin off for dogs. // Bootstrap 4 //
+TinDog Starting Files
