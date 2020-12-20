@@ -61,13 +61,13 @@ p{
     padding: 0 18px;
 }
 .nav-link{
-    font-size: 1.2rem;
+    font-size: 1.2em;
     font-family: "Montserrat", sans-serif;
     font-weight: lighter;
 }
 .navbar-brand{
     font-family: 'Ubuntu';
-    font-size: 2.5rem;
+    font-size: 2.5em;
     font-weight: 1 800;
 }
 
@@ -81,9 +81,9 @@ p{
     color:#ef8172;
     display: block;
     text-align: center;
-    font-size: 4rem;
-    margin-top: 2.5rem;
-    margin-bottom: 1.5rem;
+    font-size: 4em;
+    margin-top: 2.5em;
+    margin-bottom: 1.5em;
     
 }
 .midicons:hover{
@@ -134,7 +134,7 @@ p{
     background-color: #ff4c68;
     padding-top: 3%;
     color: #fff;
-    font-size: 1.25rem;
+    font-size: 1.25em;
     font-family: "Montserrat", sans-serif;
     text-align: center;
 }
@@ -167,6 +167,6 @@ p{
     text-align: center;
     margin: 3rem auto 1rem;
     color: gray;
-    font-size: 1.25rem;
-    letter-spacing: .75rem;
+    font-size: 1.25em;
+    letter-spacing: .75em;
 }
